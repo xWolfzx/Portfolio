@@ -1,0 +1,68 @@
+.Ueberschrift{
+    color: brown;
+    display: flex;
+    font-family: "Inter", sans-serif;
+    font-size: 60px;
+}
+
+.Ueberschrift:hover{
+    text-decoration: underline;
+}
+
+.Ue_Wichtiges{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.IT_Bild1{
+    display: block;
+    background-color: #EDC5AB;
+    border-radius: 8px;
+    width: 430px;
+    padding: 16px;
+    margin-top: -220px;
+}
+
+.Bild_Text1{
+    display: flex;
+    background: #EDC5AB;
+    border-radius: 8px;
+    font-size: 30px;
+    font-family: "Inter", sans-serif;
+    width: 1000px;
+    height: 100px; 
+    margin-left: 500px;
+    margin-top: 250px
+    
+}
+
+.Zweites_Bild{
+    display: block;
+    margin-top: 500px;
+    margin-left: 1070px;
+    background-color: #EDC5AB;
+    padding: 16px;
+    width: 530px;
+    border-radius: 8px;
+}
+
+.Bild_Text2{
+    display: flex;
+    background-color: #EDC5AB;
+    border-radius: 8px;
+    font-size: 30px;
+    font-family: "Inter", sans-serif;
+    width: 1000px;
+    margin-top: -200px;
+}
+
+.EASTEREGG{
+    display: flex;
+    color: rgb(255, 214, 214);
+    font-size: 10px;
+    font-family: "Inter", sans-serif;
+    width: 1000px;
+    margin-top: 500px;
+    margin-left: 740px;
+}
